@@ -1,4 +1,6 @@
-# Instructional Materials
+# 課程講義
+
+![Course Summarize](.github/course-summarize.png)
 
 ## Get Started
 
