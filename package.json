@@ -1,6 +1,6 @@
 {
   "name": "instructional-materials",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "For NFT course",
   "scripts": {
     "dev": "PORT=8888 next dev",
