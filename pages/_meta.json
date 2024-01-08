@@ -7,6 +7,7 @@
   "smart-contract": "開發智能合約",
   "backend-api": "開發後端 API",
   "frontend-ui": "開發前端 UI",
+  "marketplace": "設定交易市場",
   "---": {
     "type": "separator"
   },
