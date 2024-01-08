@@ -3,11 +3,11 @@
   "preparation-before-class": "課前準備",
   "blockchain-introduction": "區塊鏈介紹",
   "preparation-before-programming": "實戰前準備",
-  "nft-assets": "準備 NFT",
-  "smart-contract": "開發智能合約",
-  "backend-api": "開發後端 API",
-  "frontend-ui": "開發前端 UI",
-  "marketplace": "設定交易市場",
+  "nft-assets": "實戰：準備 NFT",
+  "smart-contract": "實戰：開發智能合約",
+  "backend-api": "實戰：開發後端 API",
+  "frontend-ui": "實戰：開發前端 UI",
+  "marketplace": "實戰：設定交易市場",
   "---": {
     "type": "separator"
   },
