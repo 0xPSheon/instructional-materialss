@@ -1,0 +1,24 @@
+{
+  "recommendations": [
+    "mechatroner.rainbow-csv",
+    "akamud.vscode-theme-onedark",
+    "mgmcdermott.vscode-language-babel",
+    "streetsidesoftware.code-spell-checker",
+    "kisstkondoros.vscode-codemetrics",
+    "editorconfig.editorconfig",
+    "usernamehw.errorlens",
+    "dbaeumer.vscode-eslint",
+    "mhutchie.git-graph",
+    "donjayamanne.githistory",
+    "eamodio.gitlens",
+    "wix.vscode-import-cost",
+    "ghmcadams.lintlens",
+    "unifiedjs.vscode-mdx",
+    "zhuangtongfa.material-theme",
+    "ibm.output-colorizer",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "nomicfoundation.hardhat-solidity",
+    "pmneo.tsimporter"
+  ]
+}
