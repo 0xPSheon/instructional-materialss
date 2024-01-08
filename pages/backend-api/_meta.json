@@ -1,5 +1,6 @@
 {
   "get-started": "從起手架開始",
   "introduce-api": "介紹 API 功能",
-  "set-project-sales-phases": "設定項目發售計畫"
+  "set-project-sales-phases": "設定項目發售計畫",
+  "manage-whitelist": "管理銷售白名單"
 }
