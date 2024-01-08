@@ -1,6 +1,6 @@
 {
   "get-started": "從起手架開始",
-  "connect-api": "串接後端",
+  "connect-api": "串接後端 API",
   "connect-wallets": "串接虛擬錢包",
   "interact-with-contract": "與合約交互",
   "test-mint-function": "測試鑄造功能"
