@@ -164,6 +164,14 @@ Hi 我是保羅
 
 ---
 
+講師作品
+
+- [NFT 3D Gallery](https://github.com/PSheon/Media-Gallery-Frontend)
+- [Nextjs Dashboard Template](https://github.com/PSheon/nextjs-dashboard-template)
+- [Video to Frames](https://github.com/PSheon/video-to-frames)
+
+---
+
 回覆與作業設計
 
 - 如果熟悉 Github 的同學可以直接發 issues 給我，我會很快回覆
